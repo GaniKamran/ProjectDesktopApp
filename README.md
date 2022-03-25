@@ -1,0 +1,3 @@
+# ProjectDesktopApp
+DesktopSocketChat
+It uses two clients in this project, but i created the second client for showing how it is works.....
